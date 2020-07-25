@@ -3,7 +3,7 @@
 
 - Full-Stack focused in C#  | Software engineer :robot:
 
-- I love cats, coffe and books. 
+- I love :smiley_cat:, :coffee: and :books: . 
 
 - Lover of Technology and coding :heart:
 
