@@ -1,7 +1,7 @@
 # :pushpin: Welcome!
 ## I'm Rodrigo de Oliveira! Let me present a little about myself ✨
 
-- Full-Stack focused in C#  | Software engineer :robot:
+- Software engineer :robot:
 
 - I love :smiley_cat:, :coffee: and :books: . 
 
