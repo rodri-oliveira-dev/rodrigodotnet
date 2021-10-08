@@ -9,11 +9,8 @@
 
 ## :triangular_flag_on_post: Technical skills
 
-- C# & .NET
-- JavaScript, TypeScript, Angular
-- Flutter, Dart
-- Html5, CSS3(Boostrap, Sass)
-- Docker, Git, MySql, Solid, DDD, Scrum
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoDotNet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## :eye_speech_bubble: About me 
 
